@@ -1,4 +1,4 @@
-from Scrabble import *
+from _compat_pickle import *
 
 #
 # Test code
